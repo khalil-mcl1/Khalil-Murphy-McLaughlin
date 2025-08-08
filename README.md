@@ -21,3 +21,4 @@ Currently, I’m leveling up sharpening my skills in using data tools. I'm excit
 - Storytelling with Data
 
 Let’s connect and build something impactful!
+www.linkedin.com/in/khalil-murphy-mclaughlin

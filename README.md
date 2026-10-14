@@ -1,27 +1,18 @@
-# Khalil-Murphy-McLaughlin
+# Khalil Murphy-McLaughlin
 
-### Hello
-I'm a Client Success Manager turned aspiring BI Analyst with 5+ years of experience in tech. I specialize in building genuine client relationships, solving problems, and turning data into actionable insights.
+### Technical Recruiter @ IS3 Solutions | IT & Managed Services
 
-Currently, I’m leveling up sharpening my skills in using data tools. I'm excited to bring a customer-centric lens to analytics and help businesses make smarter, data-driven decisions.
+Technical Recruiter with a client-success background and 5+ years in tech. I connect IT and managed-services talent with teams that need them — and I bring a data lens to the work.
 
-🔍 Fun facts:
-- I’m a certified Prompt Engineer 👨🏽‍💻
-- I love combining tech, storytelling, and user experience
-- Outside of work, I’m big on wellness and mindset—whether it’s working out on my Tonal or sharing motivational content that keeps people moving forward.
+My edge: I actually know the tools on the req. Power BI · SQL · Tableau — I've built dashboards, cleaned messy operational data, and turned it into decisions, so I can screen for real skill, not just keywords.
 
-💼 I’m open to collaborating on freelance/outsourcing data projects—especially those focused on BI, dashboards, or customer experience.
+🛠️ Core skills
+- Technical recruiting — IT & managed services
+- Power BI · SQL · Tableau
+- Data cleaning & visualization
+- Cohort & funnel analysis
+- Client success & stakeholder reporting
 
-🛠️ My key tech skills:
-- SQL
-- Tableau
-- Power BI
-- Data Cleaning & Visualization
-- Cohort & Funnel Analysis
-- Storytelling with Data
+Selected work: see data_projects_tripleten (NYC Airbnb analysis, Superstore returns dashboard, cohort/funnel analysis).
 
-Let’s connect and build something impactful!
-
-[LinkedIn](www.linkedin.com/in/khalil-murphy-mclaughlin)
-
-[Resume](https://docs.google.com/document/d/140ntnL6obA77eUaPATvDDVOneS_q9FVeuwbfZJhjyTU/edit?tab=t.0#heading=h.5x0d5h95i329)
+Let's connect: [LinkedIn](www.linkedin.com/in/khalil-murphy-mclaughlin)
